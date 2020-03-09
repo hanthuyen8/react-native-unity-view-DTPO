@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "react-native-unity-view-dtpo"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "RNUnity2019, need unity2019.3+"
   s.description  = <<-DESC
                   react-native-unity
